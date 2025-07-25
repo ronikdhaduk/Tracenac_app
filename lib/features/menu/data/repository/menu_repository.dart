@@ -1,0 +1,1 @@
+import 'package:tracenac/features/menu/data/menu_model/menu_model_class.dart';abstract class MenuRepository {  Future<GetMenuModelClass> menuApi();}

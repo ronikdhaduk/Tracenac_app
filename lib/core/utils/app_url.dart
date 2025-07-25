@@ -1,0 +1,1 @@
+class AppUrl {  static const String tenantBaseUrl = 'https://api.tracenac.com/api';  static const String getMenu = '$tenantBaseUrl/tenant/get-menu';  static const String reportTemplate = '$tenantBaseUrl/assets/report-template';  static const String getTenantUser = '$tenantBaseUrl/user';}

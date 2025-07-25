@@ -1,0 +1,28 @@
+^D:\FLUTTER PROJECT\ASSETS\TRACENAC-APP\BUILD\WINDOWS\X64\CMAKEFILES\CFFB7E11BE2DBCC92B0F5F32004BE6ED\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env "FLUTTER_ROOT=C:\flutter SDK\flutter" "PROJECT_DIR=D:\Flutter Project\assets\tracenac-app" "FLUTTER_ROOT=C:\flutter SDK\flutter" "FLUTTER_EPHEMERAL_DIR=D:\Flutter Project\assets\tracenac-app\windows\flutter\ephemeral" "PROJECT_DIR=D:\Flutter Project\assets\tracenac-app" "FLUTTER_TARGET=D:\Flutter Project\assets\tracenac-app\lib\main.dart" DART_DEFINES=Zmx1dHRlci5pbnNwZWN0b3Iuc3RydWN0dXJlZEVycm9ycz10cnVl DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=D:\Flutter Project\assets\tracenac-app\.dart_tool\package_config.json" "C:/flutter SDK/flutter/packages/flutter_tools/bin/tool_backend.bat" windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\FLUTTER PROJECT\ASSETS\TRACENAC-APP\BUILD\WINDOWS\X64\CMAKEFILES\DA906CEBD9BC67D11406EE944A5F1B58\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\FLUTTER PROJECT\ASSETS\TRACENAC-APP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/Flutter Project/assets/tracenac-app/windows" "-BD:/Flutter Project/assets/tracenac-app/build/windows/x64" --check-stamp-file "D:/Flutter Project/assets/tracenac-app/build/windows/x64/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

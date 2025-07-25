@@ -1,0 +1,1 @@
+import 'package:tracenac/features/report_template/data/report_template_model_class/report_template_model_class.dart';abstract class ReportTemplateRepository {  Future<List<ReportTemplateModelClass>> reportTemplateApi();}

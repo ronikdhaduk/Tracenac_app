@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Flutter Project\assets\tracenac-app\build\windows\x64\CMakeFiles\7369c90d91a843ca30cce072899bc9f5\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8A89ACF8-298C-373F-91D4-B127AD6779A9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1 @@
+import 'dart:ui';class AppColor {  static const primaryColor = Color(0xFFFF3232);  static const appBarColor = Color(0xFF5887ef);  static const Color buttonColor = Color(0xFF5887ef) ;  static const Color iconColor = Color(0xFF5887ef);  static const Color otherInfoColor = Color.fromRGBO(0, 0, 0, 0.4);}

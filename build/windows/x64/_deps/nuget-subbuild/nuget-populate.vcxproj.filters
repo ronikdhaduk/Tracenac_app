@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Flutter Project\assets\tracenac-app\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\0f493b40a3a578152fae048e42a2f44f\nuget-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter Project\assets\tracenac-app\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\0f493b40a3a578152fae048e42a2f44f\nuget-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter Project\assets\tracenac-app\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\0f493b40a3a578152fae048e42a2f44f\nuget-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter Project\assets\tracenac-app\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\0f493b40a3a578152fae048e42a2f44f\nuget-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter Project\assets\tracenac-app\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\0f493b40a3a578152fae048e42a2f44f\nuget-populate-copyfile.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter Project\assets\tracenac-app\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\0f493b40a3a578152fae048e42a2f44f\nuget-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter Project\assets\tracenac-app\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\0f493b40a3a578152fae048e42a2f44f\nuget-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter Project\assets\tracenac-app\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\0f493b40a3a578152fae048e42a2f44f\nuget-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter Project\assets\tracenac-app\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\0f493b40a3a578152fae048e42a2f44f\nuget-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter Project\assets\tracenac-app\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\55c6b91cdf2a686eb7b5bc6955f25980\nuget-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter Project\assets\tracenac-app\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\2d7dc216b686e8dedb4c47bedefd6e70\nuget-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter Project\assets\tracenac-app\build\windows\x64\_deps\nuget-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Flutter Project\assets\tracenac-app\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\nuget-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{489E9260-FC63-334E-9B0C-5A16FFBBA39F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
